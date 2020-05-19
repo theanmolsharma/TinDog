@@ -185,5 +185,20 @@ h2{
 	{
 		text-align:center;
 	}
+	.container-fluid{
+	padding:3% 7%;	
+	}
+	#features{
+		padding:7% 5%
+	}
+	#pricing{
+		padding:40px;
+	}
+	.cta{
+		padding:7% 7%;
+	}
+	#footer{
+		padding:7% 7%;
+	}
 	
 }
